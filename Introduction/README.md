@@ -1,6 +1,6 @@
 # Introduction to RL problems & OpenAI Gym
 ---
-Really just playing around with OpenAI Gym
+Just playing around with OpenAI Gym
 
 ## Links for learning
 BTW these links do not relate to the notebook in this folder, they are just introductory lectures on reinforcement learning.
