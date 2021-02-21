@@ -10,5 +10,5 @@ Learning about fundamental reinforcement learning algorithms through [David Silv
 
 ### Table of Contents (Unfinished)
 - [Function Approximation](FA/)
-- [Deep Q Learning](DQN/) (WIP)
-- [Policy Gradient Methods](PolicyGradient/) (WIP)
+- [Deep Q Learning](DQN/)
+- [Policy Gradient Methods](PolicyGradient/)
