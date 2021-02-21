@@ -1,4 +1,4 @@
-# RL-Implement
+# Learning Reinforcement Learning
 ---
 Learning about fundamental reinforcement learning algorithms through [David Silver's RL Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) and [dennybritz's reinforcement-learning GitHub repo](https://github.com/dennybritz/reinforcement-learning), while taking notes/implementing along the way.
 
