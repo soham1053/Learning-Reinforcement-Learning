@@ -7,8 +7,4 @@ Learning about fundamental reinforcement learning algorithms through [David Silv
 - [Dynamic Programming: Model-Based RL, Policy Iteration and Value Iteration](DP/)
 - [Monte Carlo Model-Free Prediction & Control](MC/)
 - [Temporal Difference Model-Free Prediction & Control](TD/)
-
-### Table of Contents (Unfinished)
 - [Function Approximation](FA/)
-- [Deep Q Learning](DQN/)
-- [Policy Gradient Methods](PolicyGradient/)
